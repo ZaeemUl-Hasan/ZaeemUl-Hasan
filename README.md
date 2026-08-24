@@ -1,16 +1,20 @@
-## Hi there 👋
+## About me
 
-<!--
-**ZaeemUl-Hasan/ZaeemUl-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Zaeem, a second-year mathematics student at the University of Warwick. I enjoy mathematics, programming and problem solving and specifically enjoy projects involving data analysis, machine learning and financial applications. I am currently working on a trading strategy backtester in Python.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Data Analysis
+- Machine Learning
+- Mathematics
+- Microsoft Excel
+- html/css
+
+## Currently working on
+
+- Trading Strategy Backtester
+
+## Socials
+
+[LinkedIn](https://www.linkedin.com/in/zaeem-ul-hasan-551226421/)
