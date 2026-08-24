@@ -2,14 +2,12 @@
 
 Hello, I'm Zaeem, a second-year mathematics student at the University of Warwick. I enjoy mathematics, programming and problem solving and specifically enjoy projects involving data analysis, machine learning and financial applications. I am currently working on a trading strategy backtester in Python.
 
-## Skills
+##Tech stack
 
 - Python
-- Data Analysis
-- Machine Learning
-- Mathematics
-- Microsoft Excel
-- html/css
+- html
+- css
+- R
 
 ## Currently working on
 
